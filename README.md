@@ -1,2 +1,2 @@
-# SoftUni-GitHub
-Repository gor SoftUni tasks
+# SoftUni GitHub
+Repository for SoftUni tasks
